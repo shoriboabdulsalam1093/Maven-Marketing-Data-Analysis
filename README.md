@@ -22,7 +22,7 @@ This project involves the creation of an interactive dashboard to visualize the 
 - Read through the Dataset, expanded the columns to fit to understand the columns abbreviations with the use of the data dictionary.
 - Cleaned the data: Removed duplicates, checked for spelling errors in the marital status and education columns
 - Find and Replace blank cells in the income column with the average income ($52,247)
-- Format columns appropriately(the income and amount columns to currency, date to appropriate formate)
+- Format columns appropriately (the income and amount columns to currency, date to appropriate formatted)
 - Created the age column and formatted data as table
 - Created pivot tables based on what we need to answer the questions
 - Created pivot the different charts on separate sheets and merged all charts together in a dashboard
