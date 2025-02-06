@@ -29,6 +29,6 @@ This project involves the creation of an interactive dashboard to visualize the 
 
 <h2>Dashboard Interaction and Datasets</h2>
 
-- <a href="https://github.com/shoriboabdulsalam1093/Coffee-Shop-Sales-Analysis/blob/main/Screenshot%202025-02-04%20at%2003.30.10.png"> View Dashboard</a></b> 
-- <a href="https://github.com/shoriboabdulsalam1093/Coffee-Shop-Sales-Analysis/blob/main/CoffeeSalesRawData.xlsx"> Raw Data</a></b>
-- <a href="https://github.com/shoriboabdulsalam1093/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20shop%20Sales%20analysis%20dashboad.xlsx"> Analysed Data</a></b>
+- <a href="https://github.com/shoriboabdulsalam1093/Maven-Marketing-Data-Analysis/blob/main/Screenshot%202025-02-06%20at%2015.43.24.png"> View Dashboard</a></b> 
+- <a href="https://github.com/shoriboabdulsalam1093/Maven-Marketing-Data-Analysis/blob/main/maven%20marketing_rawdata.csv"> Raw Data</a></b>
+- <a href="https://github.com/shoriboabdulsalam1093/Maven-Marketing-Data-Analysis/blob/main/Marven%20Marketing%20data%20analysis.xlsx"> Analysed Data</a></b>
